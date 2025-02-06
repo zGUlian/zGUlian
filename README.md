@@ -76,12 +76,13 @@ Me chamo Gabriel Ulian, tenho 28 anos e sou natural de São Paulo - SP. Concluí
 />
 <img 
     align="left" 
-    alt="SQL"
-    title="SQL" 
+    alt="MySQL"
+    title="MySQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
-/>                   
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>    
+
 <img 
     align="left" 
     alt="Git" 
@@ -90,6 +91,7 @@ Me chamo Gabriel Ulian, tenho 28 anos e sou natural de São Paulo - SP. Concluí
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Python" 
