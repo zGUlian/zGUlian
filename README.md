@@ -50,7 +50,6 @@ Me chamo Gabriel Ulian, tenho 28 anos e sou natural de São Paulo - SP. Concluí
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img 
     align="left" 
     alt="GO"
@@ -59,7 +58,6 @@ Me chamo Gabriel Ulian, tenho 28 anos e sou natural de São Paulo - SP. Concluí
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" 
   />
-    
 <img 
     align="left" 
     alt="Java"
@@ -68,7 +66,6 @@ Me chamo Gabriel Ulian, tenho 28 anos e sou natural de São Paulo - SP. Concluí
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
 />
-
 <img 
     align="left" 
     alt="Spring"
@@ -77,7 +74,6 @@ Me chamo Gabriel Ulian, tenho 28 anos e sou natural de São Paulo - SP. Concluí
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
 />
-
 <img 
     align="left" 
     alt="SQL"
@@ -85,8 +81,7 @@ Me chamo Gabriel Ulian, tenho 28 anos e sou natural de São Paulo - SP. Concluí
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
-/>
-                   
+/>                   
 <img 
     align="left" 
     alt="Git" 
