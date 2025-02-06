@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Gabriel Ulian, tenho 28 anos e sou natural de São Paulo - SP. Concluí o ensino no Visconde de Mauá, Atualmente estou cursando Engenharia de Software na Descomplica. Sou apaixonada por tecnologia, Estou em Transição de Carreira para contato - Meu Linkedin "[Gabriel Ulian](https://www.linkedin.com/in/gabriel-ulian-qa/)", Perfil do "[Instagram](https://www.instagram.com/g.ulnn/)".
+Me chamo Gabriel Ulian, tenho 28 anos e sou de Mauá - SP. Concluí o ensino no Visconde de Mauá, Atualmente estou cursando Engenharia de Software na Descomplica. Sou apaixonada por tecnologia, Estou em Transição de Carreira para contato - Meu Linkedin "[Gabriel Ulian](https://www.linkedin.com/in/gabriel-ulian-qa/)", Perfil do "[Instagram](https://www.instagram.com/g.ulnn/)".
 
 <p align="left">
     <a href="https://github.com/zGUlian?tab=repositories&sort=stargazers">
