@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Gabriel Ulian
 
-**`Desenvolvedor Backend`**
+**`Engenheiro de Qualidade de Software`**
 
 Me chamo Gabriel Ulian, tenho 28 anos e sou de Mauá - SP. Concluí o ensino no Visconde de Mauá, Atualmente estou cursando Engenharia de Software na Descomplica. Sou apaixonada por tecnologia, Estou em Transição de Carreira para contato - Meu Linkedin "[Gabriel Ulian](https://www.linkedin.com/in/gabriel-ulian-qa/)", Perfil do "[Instagram](https://www.instagram.com/g.ulnn/)".
 
@@ -28,20 +28,19 @@ Me chamo Gabriel Ulian, tenho 28 anos e sou de Mauá - SP. Concluí o ensino no 
           
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="POSTMAN"
+    title="Postman" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="Cypress" 
+    title="Cypress"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg" />
 <img 
     align="left" 
     alt="JavaScript" 
@@ -52,12 +51,12 @@ Me chamo Gabriel Ulian, tenho 28 anos e sou de Mauá - SP. Concluí o ensino no 
 />
 <img 
     align="left" 
-    alt="GO"
-    title="GO" 
+    alt="JIRA"
+    title="JIRA" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" 
-  />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"
+/>
 <img 
     align="left" 
     alt="Java"
@@ -90,15 +89,6 @@ Me chamo Gabriel Ulian, tenho 28 anos e sou de Mauá - SP. Concluí o ensino no 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <br/>
